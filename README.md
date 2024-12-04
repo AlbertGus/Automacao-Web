@@ -4,7 +4,7 @@ O script consiste em realizar a busca das informações do produto e enviar por 
 
 ## Descrição
 
-Este projeto é uma implementação de automaçção na web e envio de e-mails..
+Este projeto é uma implementação de automação na web e envio de e-mails..
 
 ## Instalação
 
